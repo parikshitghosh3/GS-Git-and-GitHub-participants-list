@@ -8,4 +8,4 @@
 
 ## Participants
 
-1. 
+1. [Parikshit Ghosh](https://github.com/parikshitghosh3)
